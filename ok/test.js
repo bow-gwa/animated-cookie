@@ -1,0 +1,1 @@
+function washcars (model,wallet){ cars=cars+1; if (prado) {wallet+2000} else if (probox) {wallet+200;}else {wallet+50;}
